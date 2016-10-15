@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private void testUpload()
     {
         int n=0;
-        //Just a dummy to notify myself :D :D 
+        //Just a dummy to notify myself :D :D
+
+        int i=1; //First change after initial commit
     }
 }
